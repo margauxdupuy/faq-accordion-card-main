@@ -1,0 +1,2 @@
+(()=>{"use strict";const e=document.getElementsByClassName("faq-item");for(let t=0;t<e.length;t++)e[t].addEventListener("click",(()=>{e[t].classList.toggle("active")}))})();
+//# sourceMappingURL=bundle.5bccb0ad9dc6bdf0.js.map
